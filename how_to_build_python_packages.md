@@ -7,7 +7,7 @@
 ```
 package_directory_name<br>
 |--package_name <br>
-|  |--\_\_init\_\_.py <br>
+|  |--__init__.py <br>
 |  |--sample.py <br>
 |--README.md <br>
 |--setup.py <br>
