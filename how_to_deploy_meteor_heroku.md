@@ -36,7 +36,7 @@ $cat package.json # example of package.json
 }
 ```
 
-Add a addon: mongolab
+Add an addon: mongolab
 ```
 $ heroku addons:create mongolab:sandbox
 ```
