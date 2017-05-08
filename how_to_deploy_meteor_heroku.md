@@ -1,5 +1,7 @@
-# How to deploy Meteor application through Heroku
-# Author: ksnt
+# How to deploy Meteor application through Heroku 
+## Author: ksnt
+
+:satisfied: enjoy!
 
 create git repository, then add and commit file
 ```
