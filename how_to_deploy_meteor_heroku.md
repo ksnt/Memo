@@ -41,8 +41,8 @@ Add an addon: mongolab
 $ heroku addons:create mongolab:sandbox
 ```
 
-Remark
-If you want to use mongolab, you have to register your credit card. The fee is free.
+<em>Remark</em><br>
+<em>If you want to use mongolab, you have to register your credit card. The fee is free.</em>
 
 
 Setting of mongolam
