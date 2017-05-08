@@ -1,12 +1,12 @@
 # How to build python packages memo
 
-Author: ksnt
+<b>Author: ksnt </b>
 
 \:smile: enojoyable!
 
 ## Environment
 
-pip 1.5.4
+pip 1.5.4 <br>
 Python 3.4.5
 
 ## Directory Structure
