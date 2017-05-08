@@ -1,7 +1,13 @@
 # How to build python packages memo
-# author: ksnt
+
+Author: ksnt
 
 \:smile: enojoyable!
+
+## Environment
+
+pip 1.5.4
+Python 3.4.5
 
 ## Directory Structure
 ```
@@ -95,8 +101,8 @@ $python3 setup.py sdist <br>
 ## Install and Remove from Github
 
 Install <br>
-$sudo pip install -U git+https://github.com/ksnt/package_directory_name.git <br>
+$sudo pip3 install -U git+https://github.com/ksnt/package_directory_name.git <br>
 
 Remove <br>
-$sudo pip uninstall package_name
+$sudo pip3 uninstall package_name
 
