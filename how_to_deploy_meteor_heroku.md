@@ -17,7 +17,7 @@ Create new application from "Dashboard" or Create new application on the termina
 
 Create scaffold using Buildpack
 ```
-$ heroku create --stack cedar --buildpack https://github.com/your_account_name/your_repository_name.git
+$ heroku create --stack cedar --buildpack https://github.com/YOUR_ACCOUNT_NAME/YOUR_REPOSITORY_NAME.git
 ```
 
 Choose ROOT_URL
