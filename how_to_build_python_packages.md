@@ -93,7 +93,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Upload
 
 1.Setup.<br>
-$python3 setup.py sdist <br>
+```
+$python3 setup.py sdist
+```
 
 2.Upload all files to a repository in Github. (Use "git push")
 
@@ -101,8 +103,11 @@ $python3 setup.py sdist <br>
 ## Install and Remove from Github
 
 Install <br>
-$sudo pip3 install -U git+https://github.com/ksnt/package_directory_name.git <br>
+```
+$sudo pip3 install -U git+https://github.com/ksnt/package_directory_name.git 
+```
 
 Remove <br>
+```
 $sudo pip3 uninstall package_name
-
+```
