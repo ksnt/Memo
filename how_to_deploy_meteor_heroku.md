@@ -13,7 +13,7 @@ $ git add .
 $ git commit -m "first commit"
 ```
 
-# setting of Heroku
+# Setting of Heroku
 
 1. Login your Heroku account (or create your account if you don't have it) <br>
 2. Create new application from "Dashboard" or Create new application on the terminal
