@@ -1,6 +1,6 @@
 ## Useful Sources
 
-PyData videos in YouTube  
+[PyData videos in YouTube](https://www.youtube.com/user/PyDataTV)  
 PyCon videos in Youtube  
 [hceconomics](https://www.youtube.com/user/hceconomics)
 
