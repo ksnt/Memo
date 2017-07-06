@@ -18,7 +18,7 @@ PyCon videos in Youtube
 
 ### Computer Science
 
-[Advanced Algorithms (COMPSCI 224) @Harvard by van Emde Boas](https://www.youtube.com/watch?v=0JUN9aDxVmI)  
+[Advanced Algorithms (COMPSCI 224) @Harvard by Prof. Jelani Nelson](https://www.youtube.com/watch?v=0JUN9aDxVmI)  
 
 ### Data Analysis & Machine Learning
 
