@@ -33,7 +33,7 @@ PyCon videos in Youtube
 [CS231n Winter 2016](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
 ..... and so forth  
-...... there are too many exciting course on the web!!!  
+...... there are too many exciting courses on the web!!!  
 
 
 ### Coursera
