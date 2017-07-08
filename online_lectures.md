@@ -38,8 +38,10 @@ PyCon videos in Youtube
 
 # Platforms
 Coursera - Great! I have ever finished many courses and specialization.  
-Edx      - It seems good, but I have never finished any courses.  
+Edx      - It seems very good, but I have never finished any courses.  
 Udacity  - I often find interesting courses, but I have never finished any courses.  
-FutureLearn - I sometimes find interesting courses, but I have never finished any course.  
+Khan Academy - I do not know well about this one.  
+Stanford Online - I often see interesting courses.  
+FutureLearn  - I sometimes find interesting courses, but I have never finished any courses.  
 kadenze - I found some interesting courses, but it might not be so good.  
 
