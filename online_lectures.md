@@ -36,6 +36,10 @@ PyCon videos in Youtube
 ...... there are too many exciting courses on the web!!!  
 
 
-### Coursera
-omit
+# Platforms
+Coursera - Great! I have ever finished many courses and specialization.  
+Edx      - It seems good, but I have never finished any courses.  
+Udacity  - I often find interesting courses, but I have never finished any courses.  
+FutureLearn - I sometimes find interesting courses, but I have never finished any course.  
+kadenze - I found some interesting courses, but it might not be so good.  
 
