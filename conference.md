@@ -1,6 +1,7 @@
 ## Social Networks and CSS
 Sunbelt  
 International Conference on Computational Social Science  
+NetSci  
 UKSNA ※discontinued?  
 WWW  
 
