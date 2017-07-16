@@ -11,6 +11,7 @@ ACMMM
 AAMAS  
 ASONAM  
 SIAM International Conference on Data Mining  
+WSDM  
 
 ACM Conference on Economics and Computation  
 IJCAI  
