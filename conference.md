@@ -1,4 +1,4 @@
-## Social Networks and CSS　and Web Science
+## Social Networks and CSS and Web Science
 Sunbelt  
 International Conference on Computational Social Science  
 NetSci  
