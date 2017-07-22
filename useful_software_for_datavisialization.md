@@ -8,7 +8,7 @@ Splunk
 
 ### familiar with programming
 :smile: Plotly #Python?  
-Leaflet  #R(ggplot2?)  
+Leaflet  #R, Python, etc??  
 
 
 ## Data
