@@ -22,6 +22,8 @@ PyCon videos in Youtube
 
 ### Data Analysis & Machine Learning
 
+[Andrew Ng starts Deep learning courses](https://www.coursera.org/specializations/deep-learning)  
+
 [ilectures kalman Filter](http://www.ilectureonline.com/lectures/subject/SPECIAL%20TOPICS/26/190)  
 
 [Introduction to Linear Dynamical Systems (EE263) @Stanford](https://www.youtube.com/watch?v=bf1264iFr-w&list=PL06960BA52D0DB32B)  
