@@ -4,7 +4,7 @@ QGIS
 Tableau  
 
 ### BI Tool
-Splunk  # Easy to use
+Splunk  # Easy to use  
 KNIME # Do not have to have programming skill
 
 ### familiar with programming
