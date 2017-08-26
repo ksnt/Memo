@@ -11,6 +11,9 @@ PyCon videos in Youtube
 --Spark  
 [Spark Summit](https://www.youtube.com/user/TheApacheSpark)  
 
+--Jupyter  
+[JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi&utm_content=buffer51c71&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 -- Economics  
 [hceconomics](https://www.youtube.com/user/hceconomics)  
 
