@@ -21,9 +21,9 @@ PyCon videos in Youtube
 
 ### Computer Science
 
-[Advanced Algorithms (COMPSCI 224) @Harvard by Prof. Jelani Nelson](https://www.youtube.com/watch?v=0JUN9aDxVmI)  
+[Advanced Algorithms (COMPSCI 224) @Harvard by Jelani Nelson](https://www.youtube.com/watch?v=0JUN9aDxVmI)  
 
-[CMU 15-445/645 (FALL 2017) DATABASE SYSTEMS](http://15445.courses.cs.cmu.edu/fall2017/)
+[CMU 15-445/645 (FALL 2017) DATABASE SYSTEMS by Andy Pavlo](http://15445.courses.cs.cmu.edu/fall2017/)
 
 
 ### Data Analysis & Machine Learning
