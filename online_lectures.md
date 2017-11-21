@@ -17,6 +17,9 @@ PyCon videos in Youtube
 -- Economics  
 [hceconomics](https://www.youtube.com/user/hceconomics)  
 
+-- Interesting Lectures  
+[Hakka Labs](https://www.youtube.com/channel/UCAezwIIm1SfsqdmbQI-65pA)
+
 ## Lectures
 
 ### Computer Science
