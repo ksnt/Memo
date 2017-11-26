@@ -45,7 +45,7 @@ PyCon videos in Youtube
 [Natural Language Processing with Deep Learning @Stanford](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
 [CS231n Winter 2016](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)  
 [CS 294: Deep Reinforcement Learning, Berkeley](http://rll.berkeley.edu/deeprlcourse/)  
-[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)  
 ..... and so forth  
 ...... there are too many exciting courses on the web!!!  
 
