@@ -1,4 +1,4 @@
-**There are so many interesting online courses...!**
+**There are so many interesting online lectures and courses...!**
 
 ## Useful Sources
 
