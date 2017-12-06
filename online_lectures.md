@@ -31,6 +31,8 @@ PyCon videos in Youtube
 
 ### Data Analysis & Machine Learning
 
+[Using Big Data to Solve Economic and Social Problems@Stanford](http://www.equality-of-opportunity.org/bigdatacourse/)  
+
 [Oxford Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/README.md?utm_content=buffer4f0aa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 [Andrew Ng starts Deep learning courses](https://www.coursera.org/specializations/deep-learning)  
