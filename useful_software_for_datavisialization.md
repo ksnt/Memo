@@ -10,7 +10,12 @@ KNIME # Do not have to have programming skill
 ### familiar with programming
 :smile: Plotly #Python?  
 Leaflet.js  #R, Python, etc?? Mapping  
-Seaborn #Python
+Seaborn #Python  
+Shiny #R  
+
+### other useful tools
+Kibana  
+Fluentd  
 
 ## Data
 [List of GIS data sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources)
