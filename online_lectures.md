@@ -26,18 +26,20 @@ PyCon videos in Youtube
 
 ### Computer Science
 
-[Advanced Algorithms (COMPSCI 224) @Harvard by Jelani Nelson](https://www.youtube.com/watch?v=0JUN9aDxVmI)  
+[Advanced Algorithms (COMPSCI 224) by Jelani Nelson @Harvard](https://www.youtube.com/watch?v=0JUN9aDxVmI)  
 
-[CMU 15-445/645 (FALL 2017) DATABASE SYSTEMS by Andy Pavlo](http://15445.courses.cs.cmu.edu/fall2017/)
+[CMU 15-445/645 (FALL 2017) DATABASE SYSTEMS by Andy Pavlo @CMU](http://15445.courses.cs.cmu.edu/fall2017/)
 
 
 ### Data Analysis & Machine Learning
 
-[Using Big Data to Solve Economic and Social Problems@Stanford](http://www.equality-of-opportunity.org/bigdatacourse/)  
+[Statistical Machine Learning: Spring 2017 by Ryan Tibshirani & Larry Wasserman @CMU](http://www.stat.cmu.edu/~ryantibs/statml/)
+
+[Using Big Data to Solve Economic and Social Problems by Raj Chetty @Stanford](http://www.equality-of-opportunity.org/bigdatacourse/)  
 
 [Oxford Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/README.md?utm_content=buffer4f0aa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-[Andrew Ng starts Deep learning courses](https://www.coursera.org/specializations/deep-learning)  
+[Andrew Ng starts Deep learning courses @Coursera](https://www.coursera.org/specializations/deep-learning)  
 
 [ilectures kalman Filter](http://www.ilectureonline.com/lectures/subject/SPECIAL%20TOPICS/26/190)  
 
@@ -51,7 +53,7 @@ PyCon videos in Youtube
 [CS 294: Deep Reinforcement Learning, Berkeley](http://rll.berkeley.edu/deeprlcourse/)  
 [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)  
 ..... and so forth  
-...... there are too many exciting courses on the web!!!  
+...... there are too many exciting courses by distinguished lecturers on the web!!!  
 
 
 # Platforms
