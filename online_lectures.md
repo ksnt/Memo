@@ -33,6 +33,8 @@ PyCon videos in Youtube
 
 ### Data Analysis & Machine Learning
 
+[Statistical Rethinking Fall 2017 by Richard McElreath](https://www.youtube.com/watch?v=oy7Ks3YfbDg&list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc) ※Bayesian Statistics  
+
 [Statistical Machine Learning: Spring 2017 by Ryan Tibshirani & Larry Wasserman @CMU](http://www.stat.cmu.edu/~ryantibs/statml/)
 
 [Using Big Data to Solve Economic and Social Problems by Raj Chetty @Stanford](http://www.equality-of-opportunity.org/bigdatacourse/)  
