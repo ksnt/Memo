@@ -42,6 +42,7 @@ PyCon videos in Youtube
 [Oxford Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/README.md?utm_content=buffer4f0aa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 [Andrew Ng starts Deep learning courses @Coursera](https://www.coursera.org/specializations/deep-learning)  
+[Advanced Machine Learning Specialization by HSE @Coursera](https://www.coursera.org/specializations/aml)  
 
 [ilectures kalman Filter](http://www.ilectureonline.com/lectures/subject/SPECIAL%20TOPICS/26/190)  
 
