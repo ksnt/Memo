@@ -20,7 +20,10 @@ PyCon videos in Youtube
 [hceconomics](https://www.youtube.com/user/hceconomics)  
 
 -- Interesting Lectures  
-[Hakka Labs](https://www.youtube.com/channel/UCAezwIIm1SfsqdmbQI-65pA)
+[Hakka Labs](https://www.youtube.com/channel/UCAezwIIm1SfsqdmbQI-65pA)  
+[Simons Institute Lectures](https://www.youtube.com/channel/UCW1C2xOfXsIzPgjXyuhkw9g) ※We can find so many exciting courses here!  
+I love this series by Prof Jordan @ UCBarkley: [Nonparametric Bayesian Methods: Models, Algorithms, and Applications I](https://www.youtube.com/watch?v=I7bgrZjoRhM)  
+
 
 ## Lectures
 
