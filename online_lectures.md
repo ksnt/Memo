@@ -1,4 +1,4 @@
-**There are so many interesting online lectures and courses...! You can easily find exciting courses on the web!!**
+**There are so many interesting online lectures and courses...! You can easily find exciting lectures on the web!!**
 
 ## Useful Sources
 
