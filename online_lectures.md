@@ -1,4 +1,4 @@
-**There are so many interesting online lectures and courses...!**
+**There are so many interesting online lectures and courses...! You can easily find exciting courses on the web!!**
 
 ## Useful Sources
 
@@ -32,6 +32,10 @@ PyCon videos in Youtube
 
 
 ### Data Analysis & Machine Learning
+
+
+[High-Dimensional Statistics I by  Martin Wainwright, UC Berkeley](https://www.youtube.com/watch?v=NobSAUIZOtU)  
+[High-Dimensional Statistics Ⅱ  by Martin Wainwright, UC Berkeley](https://www.youtube.com/watch?v=d_-7VzV6jh4)  
 
 [Statistical Rethinking Fall 2017 by Richard McElreath](https://www.youtube.com/watch?v=oy7Ks3YfbDg&list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc) ※Bayesian Statistics  
 
