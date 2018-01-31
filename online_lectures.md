@@ -22,7 +22,7 @@ PyCon videos in Youtube
 -- Interesting Lectures  
 [Hakka Labs](https://www.youtube.com/channel/UCAezwIIm1SfsqdmbQI-65pA)  
 [Simons Institute Lectures](https://www.youtube.com/channel/UCW1C2xOfXsIzPgjXyuhkw9g) ※We can find so many exciting courses here!  
-I like this series by Prof Jordan @ UCBarkley: [Nonparametric Bayesian Methods: Models, Algorithms, and Applications I](https://www.youtube.com/watch?v=I7bgrZjoRhM)  and this series by Prof Abramsky @Oxford: [Logic and Quantum Information Ⅰ](https://www.youtube.com/watch?v=EYL7csABBhM)  
+I like this series by Prof Broderick@MIT and Prof Jordan@UCBarkley: [Nonparametric Bayesian Methods: Models, Algorithms, and Applications I](https://www.youtube.com/watch?v=I7bgrZjoRhM)  and this series by Prof Abramsky @Oxford: [Logic and Quantum Information Ⅰ](https://www.youtube.com/watch?v=EYL7csABBhM)  
 
 
 ## Lectures
