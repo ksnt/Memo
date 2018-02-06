@@ -1,14 +1,17 @@
 ## Software
-### Geographical Data Analysis
+### Geographical/Spatial Data Analysis
 QGIS  
 Tableau  
+Geopy  
+Geopandas  
 
 ### BI Tool
 Splunk  # Easy to use  
 KNIME # Do not have to have programming skill
 
 ### familiar with programming
-:smile: Plotly #Python?  
+:smile: Plotly  
+:smile: Dash  
 Leaflet.js  #R, Python, etc?? Mapping  
 Seaborn #Python  
 Shiny #R  
