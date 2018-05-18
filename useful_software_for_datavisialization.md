@@ -12,12 +12,13 @@ KNIME # Do not have to have programming skill
 ### familiar with programming
 :smile: Plotly  
 :smile: Dash  
-Leaflet.js  #R, Python, etc?? Mapping  
+:smile: Leaflet.js  #R, Python, etc?? Mapping  
 Seaborn #Python  
+Bokeh #Python  
 Shiny #R  
 
 ### other useful tools
-Kibana  
+Elastic Stack(Elastic Search, Kibana)  
 Fluentd  
 
 ## Data
