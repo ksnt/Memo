@@ -21,6 +21,7 @@ Shiny #R
 Elastic Stack(Elastic Search, Kibana,etc)  
 Fluentd  
 Superset  
+Redash  
 
 ## Data
 [List of GIS data sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources)
