@@ -18,7 +18,7 @@ Bokeh #Python
 Shiny #R  
 
 ### other useful tools
-Elastic Stack(Elastic Search, Kibana)  
+Elastic Stack(Elastic Search, Kibana,etc)  
 Fluentd  
 
 ## Data
