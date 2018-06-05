@@ -4,6 +4,7 @@ QGIS
 Tableau  
 Geopy  
 Geopandas  
+deck.gl  
 
 ### BI Tool
 Splunk  # Easy to use  
