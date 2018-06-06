@@ -17,6 +17,8 @@ KNIME # Do not have to have programming skill
 Seaborn #Python  
 Bokeh #Python  
 Shiny #R  
+Power BI  #MS?  
+
 
 ### other useful tools
 Elastic Stack(Elastic Search, Kibana,etc)  
