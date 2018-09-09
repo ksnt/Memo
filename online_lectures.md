@@ -62,6 +62,9 @@ I like this series by Prof Broderick@MIT and Prof Jordan@UCBarkley: [Nonparametr
 [CS231n Winter 2016](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)  
 [CS 294: Deep Reinforcement Learning, Berkeley](http://rll.berkeley.edu/deeprlcourse/)  
 [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)  
+
+[Advanced Topics  2015 (COMPM050/COMPGI13) Reinforcement Learning@UCL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)  
+
 ..... and so forth  
 ...... there are too many exciting courses by distinguished lecturers on the web!!!  
 
