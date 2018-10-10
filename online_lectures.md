@@ -1,4 +1,4 @@
-**There are so many interesting online lectures and courses...!**
+**There are so many interesting online lectures and courses...! You can easily find exciting lectures on the web!!**
 
 ## Useful Sources
 
@@ -20,7 +20,10 @@ PyCon videos in Youtube
 [hceconomics](https://www.youtube.com/user/hceconomics)  
 
 -- Interesting Lectures  
-[Hakka Labs](https://www.youtube.com/channel/UCAezwIIm1SfsqdmbQI-65pA)
+[Hakka Labs](https://www.youtube.com/channel/UCAezwIIm1SfsqdmbQI-65pA)  
+[Simons Institute Lectures](https://www.youtube.com/channel/UCW1C2xOfXsIzPgjXyuhkw9g) ※We can find so many exciting courses here!  
+I like this series by Prof Broderick@MIT and Prof Jordan@UCBarkley: [Nonparametric Bayesian Methods: Models, Algorithms, and Applications I](https://www.youtube.com/watch?v=I7bgrZjoRhM)  and this series by Prof Abramsky @Oxford: [Logic and Quantum Information Ⅰ](https://www.youtube.com/watch?v=EYL7csABBhM)  
+
 
 ## Lectures
 
@@ -33,6 +36,12 @@ PyCon videos in Youtube
 
 ### Data Analysis & Machine Learning
 
+
+[High-Dimensional Statistics I by  Martin Wainwright, UC Berkeley](https://www.youtube.com/watch?v=NobSAUIZOtU)  
+[High-Dimensional Statistics Ⅱ  by Martin Wainwright, UC Berkeley](https://www.youtube.com/watch?v=d_-7VzV6jh4)  
+
+[Statistical Rethinking Fall 2017 by Richard McElreath](https://www.youtube.com/watch?v=oy7Ks3YfbDg&list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc) ※Bayesian Statistics  
+
 [Statistical Machine Learning: Spring 2017 by Ryan Tibshirani & Larry Wasserman @CMU](http://www.stat.cmu.edu/~ryantibs/statml/)
 
 [Using Big Data to Solve Economic and Social Problems by Raj Chetty @Stanford](http://www.equality-of-opportunity.org/bigdatacourse/)  
@@ -40,6 +49,7 @@ PyCon videos in Youtube
 [Oxford Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/README.md?utm_content=buffer4f0aa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 [Andrew Ng starts Deep learning courses @Coursera](https://www.coursera.org/specializations/deep-learning)  
+[Advanced Machine Learning Specialization by HSE @Coursera](https://www.coursera.org/specializations/aml)  
 
 [ilectures kalman Filter](http://www.ilectureonline.com/lectures/subject/SPECIAL%20TOPICS/26/190)  
 
@@ -52,6 +62,9 @@ PyCon videos in Youtube
 [CS231n Winter 2016](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)  
 [CS 294: Deep Reinforcement Learning, Berkeley](http://rll.berkeley.edu/deeprlcourse/)  
 [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)  
+
+[Advanced Topics  2015 (COMPM050/COMPGI13) Reinforcement Learning@UCL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)  
+
 ..... and so forth  
 ...... there are too many exciting courses by distinguished lecturers on the web!!!  
 
