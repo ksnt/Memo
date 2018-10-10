@@ -9,3 +9,4 @@
 × Jupyter notebook  
 × sbt  
 ○ spark-shell  
+○ pyspark  
