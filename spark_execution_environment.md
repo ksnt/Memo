@@ -1,9 +1,9 @@
 ### Sparkの実行環境
 
-× --- 不可
-○ --- 可
+× --- 不可  
+○ --- 可  
 
 
-× Jupyter notebook
-× sbt
-○ spark-shell
+× Jupyter notebook  
+× sbt  
+○ spark-shell  
