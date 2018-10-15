@@ -1,4 +1,4 @@
-### Useful Links
+### Useful Tips
 
 How to update my fork
 ```
