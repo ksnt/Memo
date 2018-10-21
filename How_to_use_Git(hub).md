@@ -1,6 +1,6 @@
 ### Useful Tips
 
-How to update my fork
+- How to update my fork
 ```
 git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
 cd into/cloned/fork-repo
@@ -10,9 +10,14 @@ git pull upstream master
 git push origin master
 ```
 
-How to remove added repository
+- How to remove added repository
 ```
 git remote rm upstream
+```
+
+- How to create directory
+```
+Push 「Create new file」button and put the name of directory into the input space, then put "/" into the space. You can now set the name of a file in the created directory!
 ```
 
 
