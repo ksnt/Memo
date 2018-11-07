@@ -27,6 +27,10 @@ Superset
 Redash  
 Metabase  
 Druid  
+Vega  
+Datawrapper  
+Pivot  
+
 
 ## Data
 [List of GIS data sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources)
