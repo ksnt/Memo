@@ -5,6 +5,8 @@ Tableau
 Geopy  
 Geopandas  
 deck.gl  
+plotly  
+Leaflet  
 
 ### BI Tool
 Splunk  # Easy to use  
