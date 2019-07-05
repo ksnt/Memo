@@ -7,6 +7,7 @@ Geopandas
 deck.gl  
 plotly  
 Leaflet  
+kepler.gl  
 
 ### BI Tool
 Splunk  # Easy to use  
@@ -20,6 +21,7 @@ Seaborn #Python
 Bokeh #Python  
 Shiny #R  
 Power BI  #MS?  
+PixieDust  
 
 
 ### other useful tools
