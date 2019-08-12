@@ -1,4 +1,4 @@
-I am interested in these programs.
+I am interested in these projects.
 
 [EssentialTech - Reducing poverty through essential technologies](https://cooperation.epfl.ch/essential-en)  
 
