@@ -41,19 +41,21 @@ $ git push --set-upstream origin master
 ```
 
 環境を初期化
-
+```
 $ npm init -y
+```
 
 これでmyproject/にpackage.jsonができる。
 
 ### ReactとNext.jsをインストール
-
+```
 $ npm install --save react react-dom next
+```
 
 - memo
-sudoをつけないとPermission Errorがデてしまった。`~/.npm/_cacache/...`のファイルが原因らしい
+sudoをつけないとPermission Errorがでてしまった。`~/.npm/_cacache/...`のファイルが原因らしい
 
-
+```
 $ sudo npm install --save react react-dom next
 ....
 + react@16.9.0
@@ -61,6 +63,7 @@ $ sudo npm install --save react react-dom next
 + next@9.0.3
 added 628 packages from 296 contributors and audited 9449 packages in 84.071s
 found 0 vulnerabilities
+```
 
 `package.json`に以下を追記する
 
@@ -74,7 +77,7 @@ found 0 vulnerabilities
 
 ### サーバーサイドレンダリングをしてみる
 
-Next.jsは`pages/`を自動的読み込んでルーティングするため、`pages/`を`myproject`の下に作成する
+Next.jsは`pages/`を自動的に読み込んでルーティングするため、`pages/`を`myproject`の下に作成する
 
 ```
 $ mkdir pages
@@ -115,7 +118,7 @@ const About = () => (
 export default About
 ```
 
-開発環境実行してみる。するとこんな感じ。
+開発環境を実行してみる。するとこんな感じ。
 ```
 $ npm run dev
 
@@ -129,7 +132,7 @@ $ npm run dev
 [ ready ] compiled successfully - ready on http://localhost:3000
 ```
 
-これで`localhost:3000`にアクセスすると`Hello Next.js`と表示され`About`という表示で`about`へのリンクが張られている。
+これで`localhost:3000`にアクセスすると`Hello Next.js`と表示され`About`という表示で`/about`へのリンクが張られている。
 
 ## TypeScriptを使う
 
