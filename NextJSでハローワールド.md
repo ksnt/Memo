@@ -162,7 +162,9 @@ module.exports = withTypescript()
 
 ```
 
-さらに`tsconfig.json`を作成。下記のREADMEを読んで最新の情報を参考にするのが良いらしい。
+さらに`tsconfig.json`を作成。下記のリポジトリのREADMEを読んで最新の情報を参考にするのが良いらしい。
+
+https://github.com/zeit/next-plugins/tree/master/packages/next-typescript
 
 ```
 {
