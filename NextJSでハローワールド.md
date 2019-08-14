@@ -33,6 +33,7 @@ $ mkdir myproject
 $ cd myproject/
 $ git init
 $ nano .gitignore
+$ cat .gitignore
 node_modules/
 .next
 dist
